@@ -1,0 +1,7 @@
+\\room309\V_Radeva\11 г\Елина 13\Класове и обекти\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+\\room309\V_Radeva\11 г\Елина 13\Класове и обекти\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+\\room309\V_Radeva\11 г\Елина 13\Класове и обекти\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+\\room309\V_Radeva\11 г\Елина 13\Класове и обекти\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Елина 13\Класове и обекти\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Елина 13\Класове и обекти\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+\\room309\V_Radeva\11 г\Елина 13\Класове и обекти\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
